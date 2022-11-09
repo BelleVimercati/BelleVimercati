@@ -10,5 +10,5 @@
   ##
  
 <div align="center"> 
-  <a href="mailto:vimercatiisabelle@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:vimercatiisabelle@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-E5E5E5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
