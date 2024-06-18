@@ -1,14 +1,12 @@
-## Nothing professional but trying!
+## Hello World 👋 
+I'm a computer science student, trying to be creative though the bits! 
 
-<div style="display: inline_block">
-  <a href="https://github.com/BelleVimercati">
-  <img height="170em" width="49%" src="https://github-readme-stats.vercel.app/api?username=BelleVimercati&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelleVimercati&layout=compact&langs_count=7&theme=radical"/>
-</div>
+### ☕ What am I doing now?
+Front-End in the Junior Company [Focus Consultoria](https://www.consultoriafocus.com/) <br>
+QA Intern in _Compass Uol_
 
-
-  ##
- 
-<div align="center"> 
-  <a href="mailto:vimercatiisabelle@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-343434?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.jsx`, `.md`
+- 🌱 I'm currently learning **JavaScript and AI**
+- 📫 How to reach me vimercatiisabelle@gmail.com
+- 💬 I'm interested in AI, UI, development and books
+- ⚡ Fun fact: **I love coffee**, especially when I'm in good company!
